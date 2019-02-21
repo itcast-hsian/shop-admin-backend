@@ -16,8 +16,6 @@ siteroute和sitecontrollers中的所有文件负责处理前台展示系统业�
 
 ## 部署
 
-
-
 ### 环境
 
 - mysql 5.6 +
@@ -29,13 +27,23 @@ siteroute和sitecontrollers中的所有文件负责处理前台展示系统业�
 
 ### 导入数据库
 
-1.运行mysql（phpstudy / wamp / lamp）
+**1.运行mysql（phpstudy / wamp / lamp）**
 
-2.在mysql中新建`newshop`数据库，以Navicat 为例：
+**2.在mysql中新建`newshop`数据库，以 dbForge Studio for MySQL 为例：**
 
- ![image](https://github.com/itcast-hsian/shop-admin/tree/master/screenshots/database.png)
+ ![image](https://itcast-hsian.github.io/shop-admin-docs/img/QQ%E5%9B%BE%E7%89%8720190221162022.png)
 
-3.使用 [dbForge Studio for MySQL](https://www.devart.com/dbforge/mysql/studio/download.html) 工具导入`dtcmsdb5 20171023 1442.sql`到`newshop`
+
+
+ ![image](https://itcast-hsian.github.io/shop-admin-docs/img/QQ%E5%9B%BE%E7%89%8720190221162115.png)
+
+
+**3.使用 [dbForge Studio for MySQL](https://www.devart.com/dbforge/mysql/studio/download.html) 工具导入`sql`**
+
+选中`newshop`数据库，把`dtcmsdb5 20171023 1442.sql`拖入到右边窗口，然后执行sql命令：
+
+ ![image](https://itcast-hsian.github.io/shop-admin-docs/img/QQ%E5%9B%BE%E7%89%8720190221162605.png)
+
 
 
 
