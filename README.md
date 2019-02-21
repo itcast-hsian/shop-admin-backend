@@ -33,7 +33,7 @@ siteroute和sitecontrollers中的所有文件负责处理前台展示系统业�
 
 2.在mysql中新建`newshop`数据库，以Navicat 为例：
 
- ![image](https://github.com/itcast-hsian/shop-admin/master/screenshots/database.png)
+ ![image](https://github.com/itcast-hsian/shop-admin/tree/master/screenshots/database.png)
 
 3.使用 [dbForge Studio for MySQL](https://www.devart.com/dbforge/mysql/studio/download.html) 工具导入`dtcmsdb5 20171023 1442.sql`到`newshop`
 
