@@ -1,0 +1,24 @@
+{
+  "name": "vueapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "charenc": "^0.0.2",
+    "crypt": "^0.0.2",
+    "express": "^4.14.0",
+    "express-session": "^1.15.5",
+    "is-buffer": "^1.1.5",
+    "md5": "^2.2.1",
+    "multiparty": "^4.1.3",
+    "mysql": "^2.12.0",
+    "nodemon": "^1.18.8",
+    "orm": "^3.1.0"
+  }
+}
