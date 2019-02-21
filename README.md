@@ -65,7 +65,13 @@ cd shop-admin
 npm installl
 ```
 
-3.测试接口
+3.启动
+
+```
+npm start
+```
+
+4.测试接口
 
 ```
 http://127.0.0.1:8899/admin/account/getlist?pageIndex=1&pageSize=5
