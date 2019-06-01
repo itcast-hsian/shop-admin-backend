@@ -54,7 +54,11 @@ npm installl
 npm start
 ```
 
-测试接口，使用浏览器访问http://127.0.0.1:8899/admin/account/getlist?pageIndex=1&pageSize=5，如果页面由数据返回代表后台安装成功。
+测试接口，使用浏览器访问 http://127.0.0.1:8899/admin/account/getlist?pageIndex=1&pageSize=5，
+
+
+
+如果页面由数据返回代表后台安装成功。
 
 
 
