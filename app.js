@@ -8,7 +8,7 @@ app.use(express.static(phyPath));
 
 //1.0 初始化orm
 const orm = require('orm');
-app.use(orm.express('mysql://root:@127.0.0.1:3306/newshop',{
+app.use(orm.express('mysql://root:root@127.0.0.1:3306/newshop',{
 	define:function(db,models,next){
   
 		next();
