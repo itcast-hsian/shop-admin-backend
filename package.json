@@ -12,7 +12,7 @@
     "body-parser": "^1.17.2",
     "charenc": "^0.0.2",
     "crypt": "^0.0.2",
-    "express": "^4.14.0",
+    "express": "^4.17.3",
     "express-session": "^1.15.5",
     "is-buffer": "^1.1.5",
     "md5": "^2.2.1",
